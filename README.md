@@ -1,0 +1,1 @@
+This directory requires django rest framework basic projects. I will help you to learn basic to advance.
